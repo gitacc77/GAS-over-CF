@@ -7,7 +7,7 @@
  * 3. Update /exec URL in your Python client config
  */
 
-const AUTH_KEY    = "amirrezaisbest";
+const AUTH_KEY    = "CHANGE_ME_TO_A_STRONG_SECRET";
 const WORKER_URL  = "https://xxxxxxxxxxxxxxxxxxxxxx.workers.dev";
 const WORKER_AUTH = "CHANGE_TO_STRONG_WORKER_AUTH";
 const DEBUG       = false;
